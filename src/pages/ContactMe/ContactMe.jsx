@@ -1,0 +1,12 @@
+import React from 'react'
+import "./contactme.scss"
+
+const ContactMe = () => {
+  return (
+    <div className='container'>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, deleniti nobis. Aspernatur id delectus quo laborum minus nisi impedit possimus odio quae consequatur accusamus ducimus cupiditate eos debitis et officiis repudiandae, odit mollitia excepturi sit. Veniam tempore, voluptatem odit cumque quisquam harum nihil animi, id nesciunt dolores at rerum. Dolor, nihil vel pariatur amet repellendus saepe voluptatum a laborum aliquam modi quaerat nisi rerum beatae esse eum, consequuntur odio architecto odit, magnam delectus praesentium perferendis magni minima natus? Quae quasi rerum veritatis consectetur est dolore hic voluptates a delectus molestiae voluptatum expedita accusantium dolor, temporibus veniam cupiditate fugiat necessitatibus suscipit ut asperiores! Minima officia itaque quo vel. Vero rerum eveniet corrupti quos laudantium possimus tempora quaerat odit natus numquam optio tenetur placeat dolorum laboriosam autem enim aliquam ipsam, qui debitis amet cum id deleniti obcaecati officiis. Voluptates eos aliquam, a nam placeat totam cupiditate unde blanditiis alias dicta molestiae iste facere inventore eligendi. Non facere esse assumenda dolorum ipsam omnis corrupti sint, amet totam inventore illum iusto atque sunt ut nesciunt. Quasi distinctio facilis at dolorem placeat illo non eius perferendis doloremque quis? Provident itaque quos soluta dignissimos? Nesciunt ea placeat cum vitae saepe atque eligendi autem at doloremque tenetur aut ratione eius libero nobis consequatur debitis vel, quidem molestiae itaque assumenda aliquam soluta quasi. Voluptate asperiores nisi, aperiam quae voluptates atque aspernatur dolorem commodi, eveniet necessitatibus earum minima cumque eaque, voluptatum doloremque. Eaque nihil incidunt reiciendis eos, blanditiis asperiores, illo porro cupiditate esse debitis consectetur, ratione delectus repellat. Itaque nemo saepe laboriosam provident obcaecati voluptates non dolor sint a, cum iure, molestiae maxime quisquam fuga? A quis explicabo nisi fuga enim rerum tempora illo eveniet consequuntur dolore velit facilis natus, voluptates odio quisquam laudantium, quod officiis corrupti similique dolorum. Aliquid distinctio cupiditate corporis optio voluptatum quis neque ratione at.
+    </div>
+  )
+}
+
+export default ContactMe

@@ -1,0 +1,20 @@
+$primaryColor: #011627;
+$secondaryColor: #011627;
+$accentColor: #FEA55F;
+$backgroundColor:  #011627;
+$linkColor: #43D9AD;
+$textColor: #607B96;
+$borderColor: #1E2D3D;
+$warningColor: #FF5252;
+$infoColor: #457B9D;
+$successColor: #2ECC71;
+$hoverColor: #FEA55F;
+$defaultColor: #1C2B3A;
+$font-family: "firacode";
+
+
+.container{
+    background-color: $backgroundColor;
+    border-radius: 10px;
+    border: 1px solid $borderColor;
+}
