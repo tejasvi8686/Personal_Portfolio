@@ -1,13 +1,12 @@
-import React from 'react'
+import React from "react";
 import "./hello.scss";
-
 
 const Hello = () => {
   return (
-    <div className='container'>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid deserunt, hic earum saepe pariatur, quibusdam ab, illum accusantium recusandae asperiores illo sapiente commodi dolores velit? Quo delectus iusto alias officiis eum maiores quaerat nihil! Eveniet ea quae, blanditiis maxime odio quo eligendi. Culpa quasi consequatur doloremque ut harum, tempora delectus ipsa nulla, ipsam quia ipsum beatae cumque sequi velit suscipit aliquid vel rerum? Omnis quis explicabo vero vitae maiores eos cumque debitis adipisci culpa! Maiores, magni. Exercitationem quis sunt esse quod voluptates laborum, iusto ullam unde eum natus ipsam commodi accusamus, nobis laudantium! Cupiditate doloremque minima aliquid sequi voluptatum vitae consequatur cum, cumque fugit officia perferendis consectetur dignissimos? Possimus, provident. Ipsam quasi in aperiam quibusdam vero maiores, error omnis doloremque voluptates porro autem culpa quod. Quos, sit, consequatur nam totam error veniam necessitatibus quisquam pariatur quasi corporis incidunt voluptate qui dolorum minima quam. Beatae a, quisquam minus autem porro delectus recusandae, accusamus voluptates laborum atque hic nobis doloremque. Labore nobis dolores commodi eligendi corporis pariatur libero quasi, quam incidunt quis, praesentium aperiam. Autem expedita laborum tempore earum recusandae perferendis cupiditate minus enim in provident adipisci reiciendis assumenda saepe dolor hic, modi, a sunt minima ut ab! Nobis repellendus rerum nisi, commodi minima ad neque laboriosam nihil? Cupiditate molestias esse corporis at eum, quibusdam corrupti tempore, ad, ipsa sit similique delectus voluptatum veritatis autem libero reprehenderit nesciunt ex a nulla! Officia beatae nobis nam ipsam, ducimus assumenda sit qui dolores dolore culpa magni dolor, voluptatibus ex iusto unde quia, quos magnam veritatis eligendi ipsum eaque nisi? Distinctio similique, dolores vero consequatur, nostrum quasi fugit deleniti eaque tempora error alias, velit animi odio perferendis suscipit quis quaerat incidunt minus dolorem temporibus? Voluptate modi, cum consectetur magnam obcaecati esse? Aliquam vitae numquam, est sapiente temporibus placeat mollitia quaerat quod nisi voluptas nam consequatur aliquid magnam. Laudantium, harum et? Dolor explicabo accusamus iusto qui ducimus impedit corrupti odit maiores minus inventore nobis nihil, libero enim illo recusandae rerum culpa, sunt mollitia a aperiam earum, ratione quo eum nisi. Enim vel cumque natus, autem cupiditate mollitia, distinctio voluptatibus eveniet ab inventore quaerat repellat asperiores! Sequi magnam aliquid eius pariatur perspiciatis dolore eaque quibusdam sit commodi minus voluptas quae atque exercitationem repellat temporibus a itaque, explicabo recusandae vitae obcaecati enim! Tenetur nisi commodi modi nesciunt. Quam laudantium esse reiciendis? Illo nostrum nihil veritatis numquam, fuga quam eum suscipit dolore hic accusantium repudiandae. Fugiat sunt eligendi cupiditate quis tempore enim doloremque cum, earum velit rem suscipit vitae, reprehenderit nihil! Hic fuga, in illum assumenda pariatur aliquid? Ratione corporis quam praesentium ipsa quia iste quis quae magni, tenetur modi aliquam voluptatibus deserunt atque eum. Iusto, dolor velit facilis totam enim molestias soluta cumque nihil assumenda vel aperiam corrupti consectetur, odit atque quia fugiat unde eum maiores fuga obcaecati veniam laborum? Maxime iusto aliquam aperiam, ea, laborum eos repudiandae mollitia, doloremque quasi eaque quo eligendi vero architecto consequatur quidem eveniet sequi debitis libero itaque accusantium soluta. Optio voluptas odit voluptate fugiat officiis quis consectetur explicabo illum atque, qui eligendi?
-    </div>
-  )
-}
+    <div className="container">
 
-export default Hello
+    </div>
+  );
+};
+
+export default Hello;
