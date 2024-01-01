@@ -1,0 +1,19 @@
+@import "../../SCSS/Variables/Variables.scss";
+
+#nav-section {
+  background-color: $primaryColor;
+  border-radius: 8px;
+  border: 1px solid $borderColor;
+
+  a {
+    color: $textColor;
+  }
+
+  #nav-logo {
+    width: 20px;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+  }
+}

@@ -1,10 +1,11 @@
 import React from "react";
 import "./hello.scss";
+import Navbar from "../../components/Navbar/Navbar"
 
 const Hello = () => {
   return (
-    <div className="container">
-
+    <div >
+      <Navbar />
     </div>
   );
 };
